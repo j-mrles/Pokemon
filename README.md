@@ -1,7 +1,3 @@
-Certainly! Below is a revamped README that is designed to be engaging, informative, and respectful of intellectual property rights. It should provide a clear, inviting introduction to your project while acknowledging the original creators of the Pokémon franchise.
-
----
-
 # Pokemon Java Edition
 
 ## **Disclaimer**
@@ -42,6 +38,3 @@ A heartfelt thank you to Nintendo, Game Freak, and The Pokémon Company for crea
 
 This project is released under [specify license], which allows for redistribution, modification, and use for educational purposes. Please note that this project is not intended for commercial use and should be used as a learning tool and tribute to the original games.
 
----
-
-Feel free to adjust the content according to your project's specific details, such as the version of Java used, installation instructions, contribution guidelines, and the specific license under which your project is released.
